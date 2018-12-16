@@ -68,7 +68,7 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
   - author: Cristiano Santeramo
-    quote: Really tasty and great energy after all. This is really agreat coffee!!!
+    quote: Really tasty and great energy after all. This is really great coffee!!!
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
